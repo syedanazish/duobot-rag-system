@@ -1,0 +1,24 @@
+Person: Ayesha Khizar
+
+Ayesha Khizar is currently a BSSE (Bachelor of Science in Software Engineering) student at the University of Management and Technology (UMT), Lahore. She is in her 7th semester.
+
+EDUCATION
+Currently studying Software Engineering at UMT.
+Previous education: FSc Pre-Engineering.
+
+SKILLS
+Programming languages: C++ and Java
+Coursework and areas: Programming Fundamentals (C++), Object Oriented Programming, Data Structures, Database Systems.
+
+INTERESTS AND HOBBIES
+Interest: Elite Commando.
+Hobby: Coloring.
+
+PROJECTS
+Completed many semester projects, in different programming languages.
+
+SOFTWARE ENGINEERING
+Software engineering is the systematic process of designing, developing, testing, and maintaining software using proper methods and principles to make it reliable, efficient, and easy to maintain.
+
+SOFTWARE ENGINEERING INTEREST
+The reason for studying Software Engineering is because we can build real world softwares, apps, websites, that can help people in their daily life, like by building apps: DailyDoApp, VendorBooking, TrainBooking etc.
