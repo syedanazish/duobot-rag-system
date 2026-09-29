@@ -1,6 +1,6 @@
 Person: Syeda Nazish Fatima
 
-Syeda Nazish Fatima is a BSSE Software Engineering student at the University of Management and Technology (UMT), Lahore, with a CGPA of 3.22.
+Syeda Nazish Fatima is a BSSE Software Engineering student at the University of Management and Technology (UMT) in 7th semester, Lahore.
 
 CONTACT
 Email: fatimasyedanazish14@gmail.com
@@ -15,7 +15,7 @@ Programming languages: C++ and Java.
 Coursework and areas: Programming Fundamentals (C++), Object Oriented Programming (Java), Data Structures (C++), Database Systems, Mobile Application Development, Data Science Technologies, Machine Learning, Blockchain Technologies And Applications.
 
 EDUCATION
-Bachelor's in Software Engineering, University of Management and Technology, Lahore. CGPA: 3.22.
+Bachelor's in Software Engineering, University of Management and Technology, Lahore.
 XII (Intermediate), Lahore Board, The Punjab Group of Colleges, Lahore in 2023.
 X (Matric), Lahore Board, Al-Hamd School of Science, Lahore in 2021.
 
@@ -53,3 +53,6 @@ The reason for studying Software Engineering is because we can build real world 
 
 HOBBIES
 Painting
+
+FIELDS
+Blockchain, app development.

@@ -27,15 +27,15 @@ with st.sidebar:
     st.header("About")
     st.write(
         f"**{BOT_NAME}** is a RAG chatbot. It retrieves facts from personal documents "
-        "and answers with an LLM. If the answer isn't in its data, it says so."
+        "and answers with an LLM. If the answer isn't in its data, it says no information for this query."
     )
     st.markdown("**People**\n- Syeda Nazish Fatima\n- Ayesha Khizar")
     show_sources = st.checkbox("Show retrieved sources", value=True)
     if st.button("Clear chat"):
         st.session_state.messages = []
         st.rerun()
-    st.markdown("**Try asking**\n- What are Nazish's skills?\n- Tell me about her internship\n"
-                "- What is Ayesha's hobby?\n- What is Nazish's blood group?")
+    st.markdown("**Try asking**\n- What are Nazish's projects?\n- Tell me about there study\n"
+                "- What is Ayesha's hobby?\n- Which fields are they pursuing?")
 
 try:
     bot = load_bot()

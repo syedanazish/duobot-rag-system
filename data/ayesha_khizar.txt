@@ -21,4 +21,7 @@ SOFTWARE ENGINEERING
 Software engineering is the systematic process of designing, developing, testing, and maintaining software using proper methods and principles to make it reliable, efficient, and easy to maintain.
 
 SOFTWARE ENGINEERING INTEREST
-The reason for studying Software Engineering is because we can build real world softwares, apps, websites, that can help people in their daily life, like by building apps: DailyDoApp, VendorBooking, TrainBooking etc.
+The reason for studying Software Engineering is because we can build real world softwares, apps, websites, that can help people in their daily life, like by building apps: DailyDoApp, VendorBooking, TrainBooking etc. 
+
+FIELDS
+Natural Language Processing, Information Retrival.
